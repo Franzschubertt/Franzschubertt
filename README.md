@@ -85,6 +85,7 @@ são formas importantes de consolidar conhecimentos e evoluir profissionalmente.
 
 ### 📊 Estatísticas
 
+
 <p>
   <img
     align="left"
@@ -93,6 +94,8 @@ são formas importantes de consolidar conhecimentos e evoluir profissionalmente.
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=franzschubertt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
+</p>
+
 
   <img
     align="left"
