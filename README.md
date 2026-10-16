@@ -2,21 +2,48 @@
 
 **`Desenvolvedor`**
 
-Meu nome é Franz Schubert, sou natural de Minas Gerais e atualmente estou curso Sistemas de Informação. 
-Sou apaixonado por tecnologia e busco aprimorar
-continuamente meus conhecimentos na área de desenvolvimento de software.
 
-Também compartilho minha jornada de aprendizado na Twitch, no canal
+# 👨🏻‍💻 Franz Schubert
 
-[Franzsoftgamer](https://www.twitch.tv/franzsoftgamer)
+**Desenvolvedor em formação | Estudante de Sistemas de Informação**
 
-onde converso com a comunidade sobre os conteúdos que estou
+Meu nome é Franz Schubert, sou natural de Minas Gerais e atualmente estou cursando Sistemas de Informação.
 
-estudando. Acredito que ensinar, trocar experiências e aprender com outras pessoas
+Sou apaixonado por tecnologia e busco aprimorar continuamente meus conhecimentos,
 
-são formas importantes de consolidar conhecimentos e evoluir profissionalmente.
+na área de desenvolvimento de software, desenvolvendo minhas habilidades por meio de estudos, 
 
-[Franz Schubert](https://www.instagram.com/franzschubert.t/)
+práticas e projetos.
+
+Também compartilho minha jornada de aprendizado na Twitch, no canal,
+
+FranzsoftGamer, onde converso com a comunidade sobre tecnologia, programação 
+
+e os conteúdos que estou estudando.
+
+Acredito que compartilhar conhecimentos, trocar experiências e aprender com
+
+outras pessoas são formas importantes de consolidar o aprendizado e evoluir 
+
+profissionalmente.
+
+Você também pode acompanhar meu conteúdo no Instagram.
+
+Minhas redes sociais 👇
+
+  <a href="https://www.instagram.com/franzschubert.t/">
+    <img
+      src="https://img.shields.io/badge/Instagram-Me%20acompanhe-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Me acompanhe no Instagram"
+    />
+  </a>
+  <a href=""https://www.twitch.tv/franzsoftgamer">
+    <img
+      src="https://img.shields.io/badge/Twitch-Acesse%20meu%20canal-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
+      alt="Acesse meu canal na Twitch"
+    />
+  </a>
+</p>
 
 <p align="left">
     <a href="https://www.twitch.tv/franzsoftgamer">
