@@ -132,5 +132,9 @@ Minhas redes sociais 👇
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzschubertt&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
+
+<p align="center">
+  <i>"A melhor maneira de aprender é construir, errar, corrigir e continuar evoluindo."</i>
+</p>
 <br/>
 <br/>
