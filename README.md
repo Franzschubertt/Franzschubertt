@@ -112,29 +112,24 @@ Minhas redes sociais 👇
 
 ### 📊 Estatísticas
 
-
-<p>
+<div align="center">
   <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
+    height="180"
     src="https://github-readme-stats.vercel.app/api?username=franzschubertt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    alt="Estatísticas do GitHub"
   />
-</p>
-
-
   <img
-    align="left"
-    alt="Tecnologias"
-    height="200"
-    style="padding-right: 10px;"
+    height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzschubertt&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    alt="Tecnologias mais utilizadas"
   />
-</p>
+</div>
+
+<br/>
 
 <p align="center">
-  <i>"A melhor maneira de aprender é construir, errar, corrigir e continuar evoluindo."</i>
+  <em>"A melhor maneira de aprender é construir, errar, corrigir e continuar evoluindo."</em>
 </p>
+
 <br/>
 <br/>
