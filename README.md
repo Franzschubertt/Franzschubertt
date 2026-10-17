@@ -2,9 +2,6 @@
 
 **`Desenvolvedor`**
 
-
-# 👨🏻‍💻 Franz Schubert
-
 **Desenvolvedor em formação | Estudante de Sistemas de Informação**
 
 Meu nome é Franz Schubert, sou natural de Minas Gerais e atualmente estou cursando Sistemas de Informação.
